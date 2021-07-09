@@ -1,0 +1,9 @@
+[submodule "challenge_ui"]
+	path = challenge_ui
+	url = https://github.com/iranjunior/challenge_ui.git
+[submodule "challenge_app"]
+	path = challenge_app
+	url = https://github.com/iranjunior/challenge_app.git
+[submodule "challenge_service"]
+	path = challenge_service
+	url = https://github.com/iranjunior/challenge_service.git
